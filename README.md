@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
-Hi there! I'm **MRX**, a passionate frontend developer dedicated to crafting useful and impactful web pages. This is where I share my journey, ideas, and experiments as I grow in the world of frontend development. Feel free to explore and connect!
+Hi there! I'm **Muhammed Najah** from **Kerala, India**, a passionate frontend developer dedicated to crafting useful and impactful web pages. This is where I share my journey, ideas, and experiments as I grow in the world of frontend development. Feel free to explore and connect!
 
 ![Welcome Gif](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
@@ -28,9 +28,7 @@ Here’s what I use to turn ideas into reality:
 
 ## 🤝 Let’s Connect
 I’m always open to collaboration, feedback, and new ideas. Reach out to me!
-- **Portfolio**: [Your Portfolio Link](#)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: your.email@example.com
+- **Email**: mohmednajah12@gmail.com
 
 ## ⭐ Fun Fact
 I believe every pixel tells a story, and I'm here to make them count!
